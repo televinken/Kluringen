@@ -3,4 +3,6 @@ Kluringen
 
 Förskolan Kluringens hemsida
 
-www.forskolankluringen.se
+http://www.forskolankluringen.se
+
+webmaster@forskolankluringen.se
